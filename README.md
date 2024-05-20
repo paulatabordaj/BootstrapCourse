@@ -1,3 +1,3 @@
 # BootstrapCourse
 
-Learning bootstrap with Austral University via coursera
+Learning bootstrap with Austral University via Coursera
