@@ -1,0 +1,31 @@
+{
+    "name": "fullstack",
+    "version": "1.0.0",
+    "description": "NodeJS FullStack practice with Angular and Express",
+    "main": "index.html",
+    "scripts": {
+      "dev": "lite-server",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/selopez2704/bootstrapcourse"
+    },
+    "author": "Sebastian Lopez Mazo",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/fulqjulio/selopez2704/bootstrapcourse"
+    },
+    "homepage": "https://github.com/selopez2704/bootstrapcourse#readme",
+    "devDependencies": {
+      "lite-server": "^2.6.1"
+    },
+    "dependencies": {
+      "@popperjs/core": "^2.11.8",
+      "bootstrap": "^5.3.1",
+      "jquery": "^3.7.0",
+      "open-iconic": "^1.1.1",
+      "popper": "^1.0.1"
+    }
+  }
+  
